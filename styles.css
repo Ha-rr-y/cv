@@ -1,5 +1,5 @@
 body {
-  background-color: powderblue;
+  background-color: #EAF6F6;
 }
 
 hr {
@@ -8,4 +8,14 @@ hr {
   border-color: grey;
   width: 3%;
   border-width: 5px
+}
+h1{
+  color: #48466D;
+  font-family: Georgia, sans-serif;
+}
+h2{
+  color: #820000;
+}
+h3{
+  color: #00AD7C;
 }
